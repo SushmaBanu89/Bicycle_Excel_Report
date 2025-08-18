@@ -2,15 +2,18 @@
 ## 🚀 Overview This Power BI dashboard visualizes sales performance and customer insights for a retail business. The goal is to help stakeholders track key KPIs and make strategic business decisions.
 
 **📊 Power BI Dashboard: Analysis Description**
+
 ✅** KPIs Displayed (Top Cards):**
 •	Total Sales – Overall revenue generated.
 •	Total Profit – Net profit from all sales.
 •	Total Units Sold – Total quantity of items sold.
 •	Profit Percentage – (Profit/Sales)*100 to monitor business profitability.
+
 ✅ **Filters Applied:**
 •	Year
 •	Month
 Used to slice all visuals and compare performance over time.
+
 ✅** Charts & Insights:**
 1.	Sales by City :
 o	Compares how different cities are performing in terms of sales.
